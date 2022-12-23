@@ -9,3 +9,5 @@ Able to add the houses need to check | Able to verify that whether the added hou
 Able to add the images of the crime and the criminal | Applies the same
 Able to add the entire details of the criminals | Applies the same and able to add entire details of the patrol officers also
 Just a normal user with login credentials | Admin of the application able to add, edit and delete normal users
+
+![screenshot](intro.jpeg)
