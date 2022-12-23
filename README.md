@@ -21,7 +21,7 @@ Just a normal user with login credentials | Admin of the application able to add
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.READ_SMS" />
     
-            <meta-data
+    <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="YOUR_API_KEY" />
     
