@@ -30,6 +30,7 @@ Just a normal user with login credentials | Admin of the application able to add
    ## Usage
    > 1. Clone the repository
    > 2. Open the folder in **Android studio**
-   > 3. Make sure that you properly configured your *AndroidManifet.xml* file
+   > 3. Make sure that you properly configured your *AndroidManifes![intro](https://user-images.githubusercontent.com/77725682/209366974-f355d6e8-56f0-4cad-8787-f74514b4e64c.jpeg)
+t.xml* file
    > 4. ***Build*** the app
 
