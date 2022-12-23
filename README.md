@@ -28,8 +28,8 @@ Just a normal user with login credentials | Admin of the application able to add
    ```
    
    ## Usage
-   > Clone the repository
-   > Open the folder in **Android studio**
-   > Make sure that you properly configured your *AndroidManifet.xml* file
-   > ***Build*** the app
+   > 1. Clone the repository
+   > 2. Open the folder in **Android studio**
+   > 3. Make sure that you properly configured your *AndroidManifet.xml* file
+   > 4. ***Build*** the app
 
