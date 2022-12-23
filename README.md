@@ -3,5 +3,5 @@ Android mobile application that helps to sort out the connectivity issues and in
 and higher officials
 
 ## Sample Images
-![Alt Text](https://github.com/dharneesh013/Deft_Patrol/Images/intro.jpeg)
+![Alt Text](https://github.com/dharneesh013/Deft_Patrol/blob/master/Images/intro.jpeg)
 
