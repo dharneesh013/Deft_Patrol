@@ -26,4 +26,10 @@ Just a normal user with login credentials | Admin of the application able to add
             android:value="YOUR_API_KEY" />
     
    ```
+   
+   ## Usage
+   > Clone the repository
+   > Open the folder in **Android studio**
+   > Make sure that you properly configured your *AndroidManifet.xml* file
+   > ***Build*** the app
 
